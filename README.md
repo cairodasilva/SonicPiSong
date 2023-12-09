@@ -8,3 +8,5 @@ I originally tried to do a guitar cover of a song I liked but I both can't read 
  The assignment asked me to include what I wrote down as I brainstormed, but all of my brainstorms didn't work out as they were just notes of sheet music I was trying to convert to sonic pi, which I could not figure out. 
 
  The music video is me playing subway surfers really poorly because a social media tactic that has come out in the last year has been to play a video overlaid above gameplay of subway surfers. This has led to vast increases in watch retention (as attention spans shorten) and consequently virality.
+ 
+ To run the code you can either listen to the wav file which is the first 5 minutes of the song (it doenst change after that) or you can move the samples to your machine and then change the paths of the sample calls to the ones from where you saved them and run it from sonic Pi. Future work would be adding a guitar and cleaning up the sound in plaves where it sounds very congested
